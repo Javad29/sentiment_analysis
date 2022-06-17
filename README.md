@@ -3,7 +3,8 @@ The aim of this learning project is two fold. The primary goal is to capture the
 
 # Dataset
 The IMDb dataset contains 50.000 different movie reviews. The reviews are either positive i.e. more than six stars or negative i.e. less than five stars. The dataset can be downloaded here: http://ai.stanford.edu/~amaas/data/sentiment/ 
-For convenience the original zip file was extracted and the data within turned into a managable csv file and uploaded to the repository.
+
+In order to avoid crossing GitHub's recommended maximum file size the dataset (csv) is compressed into a zip file.
 
 The dataset was used for the following paper: 
 Maas, A. L. , Daly, R. E., Pham, P. T., Huang, D., Ng, A. Y.,& Potts, C. (2011). 
